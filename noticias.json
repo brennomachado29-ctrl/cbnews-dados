@@ -1,10 +1,10 @@
 [
   {
-    "id": "news_1779744890531",
-    "titulo": "Update Part 2",
-    "descricao": "Dynasty Case will come Part 2",
-    "tag": "UPDATE",
+    "id": "news_1779745033874",
+    "titulo": "TESTE",
+    "descricao": "const CONFIG = {\n  githubUser:   'brennomachado29-ctrl',\n  githubRepo:   'cbnews-dados',\n  githubBranch: 'main',\n  newsFile:     'noticias.json',\n  adsFile:      'anuncios.json',\n};",
+    "tag": "EVENTO",
     "imagem": "https://media.discordapp.net/attachments/1432927142064164956/1507774983513051317/DynastyCaseGolds.png?ex=6a15c361&is=6a1471e1&hm=99a13db7bd33268479280c62ab2d0630f6b1ac0a14b16fc73b3ef5c48ca2ad9e&=&format=webp&quality=lossless&width=672&height=532",
-    "data": "2026-05-25T21:34:50.531Z"
+    "data": "2026-05-25T21:37:13.874Z"
   }
 ]
