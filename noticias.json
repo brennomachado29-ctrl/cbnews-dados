@@ -1,5 +1,13 @@
 [
   {
+    "id": "news_1779757865906",
+    "titulo": "teste",
+    "descricao": "teste",
+    "tag": "TESTE",
+    "imagem": null,
+    "data": "2026-05-26T01:11:05.906Z"
+  },
+  {
     "id": "news_1779757291029",
     "titulo": "Update 2",
     "descricao": "Dynasty Case Itens rares",
