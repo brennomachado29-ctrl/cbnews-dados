@@ -1,11 +1,11 @@
 [
   {
-    "id": "news_1779757865906",
-    "titulo": "teste",
-    "descricao": "teste",
-    "tag": "TESTE",
-    "imagem": null,
-    "data": "2026-05-26T01:11:05.906Z"
+    "id": "news_1779758027868",
+    "titulo": "Spring Event Counter Blox",
+    "descricao": "Saiu os preços atuais das skins lançadas na primeira parte do evento de Primavera do Counter Blox",
+    "tag": "UPDATE",
+    "imagem": "https://cdn.discordapp.com/attachments/828666434338029639/1508592443283738685/image.png?ex=6a1619b2&is=6a14c832&hm=8a65088e1145741b4b741852e35ea0bfed3d8821c567a5e7e42f18ed80414096&",
+    "data": "2026-05-26T01:13:47.868Z"
   },
   {
     "id": "news_1779757291029",
